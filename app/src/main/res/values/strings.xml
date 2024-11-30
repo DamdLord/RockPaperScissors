@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="scissors">SCISSORS</string>
+    <string name="win">YOU WIN</string>
+    <string name="lose">YOU LOSE</string>
+    <string name="tie">TIE</string>
+    <string name="what_we_chose_for_rock_I">YOU CHOSE ROCK, I CHOSE ROCK</string>
+    <string name="what_we_chose_for_rock_II">YOU CHOSE ROCK, I CHOSE PAPER</string>
+    <string name="what_we_chose_for_rock_III">YOU CHOSE ROCK, I CHOSE SCISSORS</string>
+    <string name="what_we_chose_for_paper_I">YOU CHOSE PAPER, I CHOSE ROCK</string>
+    <string name="what_we_chose_for_paper_II">YOU CHOSE PAPER, I CHOSE PAPER</string>
+    <string name="what_we_chose_for_paper_III">YOU CHOSE PAPER, I CHOSE SCISSORS</string>
+    <string name="what_we_chose_for_scissors_I">YOU CHOSE SCISSORS, I CHOSE ROCK</string>
+    <string name="what_we_chose_for_scissors_II">YOU CHOSE SCISSORS, I CHOSE PAPER</string>
+    <string name="what_we_chose_for_scissors_III">YOU CHOSE SCISSORS, I CHOSE SCISSORS</string>
+</resources>
